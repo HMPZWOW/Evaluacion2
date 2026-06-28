@@ -1,0 +1,16 @@
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\obj\Debug\net8.0-windows\SIFRADO.Form1.resources
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\obj\Debug\net8.0-windows\SIFRADO.csproj.GenerateResource.cache
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\obj\Debug\net8.0-windows\SIFRADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\obj\Debug\net8.0-windows\SIFRADO.AssemblyInfoInputs.cache
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\obj\Debug\net8.0-windows\SIFRADO.AssemblyInfo.cs
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\obj\Debug\net8.0-windows\SIFRADO.csproj.CoreCompileInputs.cache
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\bin\Debug\net8.0-windows\SIFRADO.exe
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\bin\Debug\net8.0-windows\SIFRADO.deps.json
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\bin\Debug\net8.0-windows\SIFRADO.runtimeconfig.json
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\bin\Debug\net8.0-windows\SIFRADO.dll
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\bin\Debug\net8.0-windows\SIFRADO.pdb
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\obj\Debug\net8.0-windows\SIFRADO.dll
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\obj\Debug\net8.0-windows\refint\SIFRADO.dll
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\obj\Debug\net8.0-windows\SIFRADO.pdb
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\obj\Debug\net8.0-windows\SIFRADO.genruntimeconfig.cache
+C:\Users\iedep\OneDrive\Documentos\mayo -agosto 2026\Programacion Orientada a eventos\SIFRADO\SIFRADO\obj\Debug\net8.0-windows\ref\SIFRADO.dll

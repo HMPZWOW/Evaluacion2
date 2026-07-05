@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SIFRADO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a192bde814bec1c1c9d7a38635eff873e04573f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SIFRADO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SIFRADO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
